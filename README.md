@@ -9,7 +9,7 @@ commits, issue tracking, online editing, automatic linting of files, configurati
 ![Icon](./.bluemix/toolchain.png)
 
 ### To get started, click this button (LONDON):
-[![Create toolchain](https://console.bluemix.net/devops/graphics/create_toolchain_button.png)](https://console.bluemix.net/devops/setup/deploy/?repository=https%3A//github.com/snorthov/simple-helm-toolchain)
+[![Create toolchain](https://console.bluemix.net/devops/graphics/create_toolchain_button.png)](https://devops.eu-gb.bluemix.net/devops/setup/deploy/?repository=https%3A//github.com/snorthov/simple-helm-toolchain)
 
 ### Use it with your own application:
 This template assumes an application (e.g. [hello-helm](https://github.com/open-toolchain/hello-helm)) structured like this  :
